@@ -1,19 +1,21 @@
 # MazeWorld
 ## Problem description:
 Here is a maze, drawn in the venerable tradition of ASCII art:
-.......
 
-.##....
+. . . . . . .
 
-..##...
+.##. . . .
 
-.......
+. . ##. . .
 
-..##...
+. . . . . . .
+
+. .##. . .
 
 #.###..
 
-....##.
+. . . . ##.
+
 The periods represent open floor tiles (places that can be walked on or over), and the number signs represents walls, places in the maze where a simple robot cannot go.
 
 You have a robot. It can move in any of four directions: North (towards the top of the screen), East, South, and West. There are coordinates on the maze. (0, 0) is the bottom left corner of the maze. (6, 0) is the bottom right corner of the maze.
