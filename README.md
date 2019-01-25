@@ -10,9 +10,9 @@ Here is a maze, drawn in the venerable tradition of ASCII art:
 
 . . . . . . .
 
-. .##. . .
+. . ##. . .
 
-#.###..
+#. ###..
 
 . . . . ##.
 
