@@ -2,11 +2,17 @@
 ## Problem description:
 Here is a maze, drawn in the venerable tradition of ASCII art:
 .......
+
 .##....
+
 ..##...
+
 .......
+
 ..##...
+
 #.###..
+
 ....##.
 The periods represent open floor tiles (places that can be walked on or over), and the number signs represents walls, places in the maze where a simple robot cannot go.
 
